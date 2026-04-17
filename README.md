@@ -1,4 +1,7 @@
-# WeChat Desktop Control
+# OPENCLAW-WECHAT-SKILL
+
+## 写在前面
+### 本项目是一次粗糙的实验版本，基于macOS通知中心+AppleScript实现。功能有限，无法读取图片/长文本，适合刚接触OpenClaw尝试跑通流程
 
 极简生产链路：
 
